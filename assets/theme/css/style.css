@@ -8,6 +8,13 @@ section {
     font-family: 'Italianno', cursive;
     font-size: 7em;
 }
+.headers1{
+    font-family: 'Italianno', cursive;
+    font-size: 7em;
+    padding: 20%;
+    color: black;
+    margin-top: -10%;
+}
 .white{
   color: #fff;
   text-indent: 10px;
